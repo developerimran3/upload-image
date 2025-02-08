@@ -2,6 +2,7 @@
   "name": "developerimran/upload-image",
   "description": "This is a package for uploading image",
   "type": "library",
+  "version": "1.0.0",
   "license": "MIT",
   "autoload": {
     "psr-4": {
