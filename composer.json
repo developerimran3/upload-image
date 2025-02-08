@@ -1,0 +1,19 @@
+{
+  "name": "imran/upload-image",
+  "description": "This is a package for uploading image",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Developer\\Imran\\Pioneer\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "developerimran",
+      "email": "developerimran.in@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
